@@ -1,0 +1,68 @@
+{
+  "recetas": [
+    {
+      "titulo": "flan",
+      "descripcion": "ravioles con salsa blanca",
+      "fecha": "2023-06-14",
+      "url_img": "https://www.comedera.com/wp-content/uploads/2022/08/raviolis-de-queso-y-espinacas.jpg",
+      "receta": "ravioles de espinaca",
+      "id": 4
+    },
+    {
+      "titulo": "lasagna",
+      "descripcion": "lasagna de pollo ",
+      "fecha": "2023-06-30",
+      "url_img": "https://www.cucinare.tv/wp-content/uploads/2019/09/lasa%C3%B1a.jpg",
+      "receta": "lasagna de pollo jamon y queso",
+      "id": 5
+    },
+    {
+      "titulo": "milanesa",
+      "descripcion": "milanesa con guarnicion",
+      "fecha": "",
+      "url_img": "https://pollolin.com/wp-content/uploads/2022/02/2021-11-Pollolin-milanesa-3g_MG_8103.jpg",
+      "receta": "mila",
+      "id": 6
+    },
+    {
+      "titulo": "Asado",
+      "descripcion": "asado para 2 personas",
+      "fecha": "",
+      "url_img": "https://resizer.glanacion.com/resizer/mJBaHPrSB-rKFLk4x450knbl07I=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/BCMNCK4U35CBNHAHVLKS3S2R5Y.jpg",
+      "receta": "carne",
+      "id": 7
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreUsuario": "admin",
+      "email": "admin@rollingcode.com",
+      "password": "12345678"
+    },
+    {
+      "nombreUsuario": "seba",
+      "email": "seba@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "nombreUsuario": "miguel",
+      "email": "miguel@hotmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "nombreUsuario": "daniel",
+      "email": "daniel@gmail.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "nombreUsuario": "mariano",
+      "email": "mariano@gmail.com",
+      "password": "12345678",
+      "id": 5
+    }
+  ]
+}
